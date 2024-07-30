@@ -6,7 +6,7 @@
 - Auto upgrade fuel tank
 - Auto upgrade turbo charge
 - Support multi account
-- Register OKX Racer [here](https://t.me/OKX_official_bot/OKX_Racer?startapp=linkCode_88910038)
+- Register OKX Racer [here](https://t.me/OKX_official_bot/OKX_Racer?startapp=linkCode_114538875)
 
 ## Installation
 
